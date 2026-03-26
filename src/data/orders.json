@@ -1,0 +1,28 @@
+[
+  {
+    "order_id": "1001",
+    "customer": "Alice Smith",
+    "city": "New York",
+    "status": "Delayed",
+    "message": "Dear Alice Smith, we apologize for the delay to your New York order due to weather conditions. We appreciate your patience during this time."
+  },
+  {
+    "order_id": "1002",
+    "customer": "Bob Jones",
+    "city": "Mumbai",
+    "status": "Pending"
+  },
+  {
+    "order_id": "1003",
+    "customer": "Charlie Green",
+    "city": "London",
+    "status": "Delayed",
+    "message": "Dear Charlie Green, apologies for your London order delay due to cloudy weather conditions. We are working to deliver it to you quickly."
+  },
+  {
+    "order_id": "1004",
+    "customer": "Test User",
+    "city": "InvalidCity123",
+    "status": "Pending"
+  }
+]
