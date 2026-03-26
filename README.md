@@ -21,11 +21,11 @@ It integrates external APIs, uses parallel processing, and applies intelligent l
 ## 📁 Project Structure
 
 src/
-├── config/           # Environment configuration
-├── services/         # API integrations (Weather + AI)
-├── processors/       # Core business logic
-├── utils/            # Logger & error handling
-├── data/             # orders.json (input/output)
+├── config/           # Environment configuration <br>
+├── services/         # API integrations (Weather + AI) <br>
+├── processors/       # Core business logic <br>
+├── utils/            # Logger & error handling <br>
+├── data/             # orders.json (input/output) <br>
 └── index.js          # Entry point
 
 ---
