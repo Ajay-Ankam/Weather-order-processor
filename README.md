@@ -33,7 +33,7 @@ src/
 ## ⚙️ Setup Instructions
 
 ### 1. Clone the repository
-git clone <your-repo-link>  
+git clone https://github.com/Ajay-Ankam/Weather-order-processor.git  
 cd weather-order-processor  
 
 ### 2. Install dependencies
